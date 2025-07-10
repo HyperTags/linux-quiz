@@ -20,6 +20,8 @@ git clone https://github.com/HyperTags/linux-quiz.git
 
 cd linux-fundamentals-quiz
 
+pip install -r requirements.txt
+
 bash setup.sh       # Makes scripts executable
 
 ./linux.py          # Run the quiz or 
