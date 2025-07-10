@@ -19,7 +19,7 @@ An interactive terminal-based quiz to test your Linux command line knowledge.
 ```bash
 git clone https://github.com/HyperTags/linux-quiz.git
 
-cd linux-fundamentals-quiz
+cd linux-quiz
 
 bash setup.sh       # Makes scripts executable
 
