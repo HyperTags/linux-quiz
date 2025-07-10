@@ -1,4 +1,5 @@
-# Linux Fundamentals Terminal Quiz
+# Linux Fundamental Terminal Quiz
+by Mr. Big Head
 
 ![Linux Terminal Quiz Demo]
 
