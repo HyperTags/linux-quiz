@@ -68,7 +68,7 @@ class LinuxFundamentalsQuiz:
     def display_header(self):
         self.clear_screen()
         print(colored("=== Linux Fundamentals Quiz ===", "cyan", attrs=["bold"]))
-        print(colored("\nMr. Big Head", "cyan"))
+        print(colored("========= Mr. Big HEAD ========", "cyan", attrs=["bold"]))
         print(colored(f"\nQuestions: {self.total_questions}", "yellow"))
         print("----------------------------------------\n")
 
