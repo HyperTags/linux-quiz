@@ -20,7 +20,11 @@ git clone https://github.com/HyperTags/linux-quiz.git
 
 cd linux-fundamentals-quiz
 
-pip install -r requirements.txt
+# linux
+sudo apt install python3-termcolor
+
+# termux
+pip install -r requirements.txt  
 
 bash setup.sh       # Makes scripts executable
 
